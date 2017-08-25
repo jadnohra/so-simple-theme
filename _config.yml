@@ -3,7 +3,7 @@
 title: So Simple Theme
 locale: en_US
 description: A simple and clean responsive Jekyll theme for words and photos.
-logo: site-logo.png
+#logo: site-logo.png
 url: https://mmistakes.github.io/so-simple-theme
 
 # Jekyll configuration
